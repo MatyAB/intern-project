@@ -1,0 +1,114 @@
+﻿@{  
+    ViewBag.Title = "Satyaprakash Bootstrap PopUp";  
+}  
+  
+<title>@ViewBag.Title</title>  
+  
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">  
+  
+<style>  
+    .button {  
+        background-color: #4CAF50; /* Green */  
+        border: none;  
+        color: white;  
+        padding: 15px 32px;  
+        text-align: center;  
+        text-decoration: none;  
+        display: inline-block;  
+        font-size: 16px;  
+        margin: 4px 2px;  
+        cursor: pointer;  
+    }  
+  
+ 
+</style>  
+<div>  
+    
+    <fieldset>  
+        
+        <div class="container">  
+            <div class="row">  
+                <div class="col-xs-12">  
+  
+                    <button id="btnShowModal" type="button"  
+                            class="btn btn-sm btn-default pull-left col-lg-11 button button4">  
+                        Satya Modals  
+                    </button>  
+  
+                    <div class="modal fade" tabindex="-1" id="loginModal"  
+                         data-keyboard="false" data-backdrop="static">  
+                     
+
+                        <div class="modal-dialog modal-lg">  
+                            <div class="modal-content">  
+                                <div class="modal-header">  
+                                    <button type="button" class="close" data-dismiss="modal">  
+                                        XMM
+                                    </button>  
+                                    <h4 class="modal-title"></h4>  
+                                </div>  
+                                <div class="modal-body">  
+                                    <form>  
+                                       <img src="~/css/success.png" alt=""  width="450" height="400">
+                                     
+                                    </form>  
+                                
+
+                        </div>  
+                    </div>  
+  
+                
+                    </div>  
+                   
+            </div>  
+        </div>  
+        </div>  
+        </div>  
+    </fieldset>  
+</div>  
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
+  Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+    <footer>  
+        <p style="background-color: Yellow; font-weight: bold; color:blue; text-align: center; font-style: oblique">  
+            ©  
+            <script> document.write(new Date().toDateString()); </script>  
+        </p>  
+    </footer>  
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">  
+    </script>  
+    <script src="bootstrap/js/bootstrap.min.js"></script>  
+  
+    <script type="text/javascript">  
+        $(document).ready(function () {  
+            $("#btnShowModal").click(function () {  
+                $("#loginModal").modal('show');  
+            });  
+  
+            $("#btnHideModal").click(function () {  
+                $("#loginModal").modal('hide');  
+            });  
+        });  
+    </script> 

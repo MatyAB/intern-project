@@ -1,0 +1,7 @@
+C:\Users\mati\Desktop\projectfronm cha\WebAppl\obj\Release\net6.0\PubTmp\Out\WebAppl.exe
+C:\Users\mati\Desktop\projectfronm cha\WebAppl\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mati\Desktop\projectfronm cha\WebAppl\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\mati\Desktop\projectfronm cha\WebAppl\obj\Release\net6.0\PubTmp\Out\WebAppl.dll
+C:\Users\mati\Desktop\projectfronm cha\WebAppl\obj\Release\net6.0\PubTmp\Out\WebAppl.deps.json
+C:\Users\mati\Desktop\projectfronm cha\WebAppl\obj\Release\net6.0\PubTmp\Out\WebAppl.runtimeconfig.json
+C:\Users\mati\Desktop\projectfronm cha\WebAppl\obj\Release\net6.0\PubTmp\Out\WebAppl.pdb

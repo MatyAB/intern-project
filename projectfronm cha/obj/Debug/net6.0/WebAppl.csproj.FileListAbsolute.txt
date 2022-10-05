@@ -1,0 +1,35 @@
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.AssemblyInfo.cs
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.RazorAssemblyInfo.cache
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.RazorAssemblyInfo.cs
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\bin\Debug\net6.0\appsettings.json
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\bin\Debug\net6.0\WebAppl.staticwebassets.runtime.json
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\bin\Debug\net6.0\WebAppl.exe
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\bin\Debug\net6.0\WebAppl.deps.json
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\bin\Debug\net6.0\WebAppl.runtimeconfig.json
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\bin\Debug\net6.0\WebAppl.dll
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\bin\Debug\net6.0\WebAppl.pdb
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\scopedcss\bundle\WebAppl.styles.css
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.dll
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\refint\WebAppl.dll
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.pdb
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.genruntimeconfig.cache
+C:\Users\Hp\Documents\Visual Studio 2022\projects\WebAppl\WebAppl\obj\Debug\net6.0\ref\WebAppl.dll
+C:\Users\mati\Pictures\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.csproj.AssemblyReference.cache
+C:\Users\mati\Pictures\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati\Pictures\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.AssemblyInfoInputs.cache
+C:\Users\mati\Pictures\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.AssemblyInfo.cs
+C:\Users\mati\Pictures\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.csproj.CoreCompileInputs.cache
+C:\Users\mati\Pictures\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mati\Pictures\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.RazorAssemblyInfo.cache
+C:\Users\mati\Pictures\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.RazorAssemblyInfo.cs
+C:\Users\mati\Pictures\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.dll
+C:\Users\mati\Pictures\WebAppl\WebAppl\obj\Debug\net6.0\ref\WebAppl.dll
+C:\Users\mati\Pictures\WebAppl\WebAppl\obj\Debug\net6.0\WebAppl.pdb

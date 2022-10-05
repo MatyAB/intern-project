@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "fgIUimkQGwrNpGqFG6eDUmge+qJFjjaq9FSQNCsGWigNZxvjH/OI0l4SWrlkHG7fWwoOlV30Ff0jU15dEcKpXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mati\\Source\\Repos\\MatyAB\\intern-project\\projectfronm cha\\WebAppl\\WebAppl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mati\\.nuget\\packages\\bootstrap\\5.2.1\\bootstrap.5.2.1.nupkg.sha512",
+    "C:\\Users\\mati\\.nuget\\packages\\telerik.dataaccess.core\\2018.0.1127.1\\telerik.dataaccess.core.2018.0.1127.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Telerik.DataAccess.Core 2018.0.1127.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Telerik.DataAccess.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

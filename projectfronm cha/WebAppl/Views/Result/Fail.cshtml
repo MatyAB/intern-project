@@ -1,0 +1,43 @@
+﻿@using DemoWebCam.Controllers;
+
+@{
+}
+<html>
+<head>
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 600px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+    <div>
+     
+   <a  class="btn btn-outline-primary" asp-controller="Camra" asp-action="Capture" ><i class="bi bi-pencil-square"></i>back </a> 
+     </div>
+<div class="gallery">
+  <a target="_blank" href="img_lights.jpg">
+    <img src="~/CameraPhoto/errorImage/fail.jpg" alt="failer image" width="600" height="400">
+  </a>
+</div>
+
+
+</body>
+</html>

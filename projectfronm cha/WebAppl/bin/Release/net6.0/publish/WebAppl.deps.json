@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebAppl/1.0.0": {
+        "dependencies": {
+          "bootstrap": "5.2.1"
+        },
+        "runtime": {
+          "WebAppl.dll": {}
+        }
+      },
+      "bootstrap/5.2.1": {}
+    }
+  },
+  "libraries": {
+    "WebAppl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bootstrap/5.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hZdgEyJ4xwoNYWOJiS0HPYhe3f2Ja+Sm0s9PfWhNiKDVUys/SqqJOSdz0FPYS3E+AKmMhkk5jTcUJ/q0jWpNuw==",
+      "path": "bootstrap/5.2.1",
+      "hashPath": "bootstrap.5.2.1.nupkg.sha512"
+    }
+  }
+}

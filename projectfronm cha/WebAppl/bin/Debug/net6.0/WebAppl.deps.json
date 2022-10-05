@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebAppl/1.0.0": {
+        "dependencies": {
+          "Telerik.DataAccess.Core": "2018.0.1127.1",
+          "bootstrap": "5.2.1"
+        },
+        "runtime": {
+          "WebAppl.dll": {}
+        }
+      },
+      "bootstrap/5.2.1": {},
+      "Telerik.DataAccess.Core/2018.0.1127.1": {
+        "runtime": {
+          "lib/net40/Telerik.OpenAccess.35.Extensions.dll": {
+            "assemblyVersion": "2018.0.1127.1",
+            "fileVersion": "2018.0.1127.1"
+          },
+          "lib/net40/Telerik.OpenAccess.40.Extensions.dll": {
+            "assemblyVersion": "2018.0.1127.1",
+            "fileVersion": "2018.0.1127.1"
+          },
+          "lib/net40/Telerik.OpenAccess.Runtime.dll": {
+            "assemblyVersion": "2018.0.1127.1",
+            "fileVersion": "2018.0.1127.1"
+          },
+          "lib/net40/Telerik.OpenAccess.dll": {
+            "assemblyVersion": "2018.0.1127.1",
+            "fileVersion": "2018.0.1127.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAppl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bootstrap/5.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hZdgEyJ4xwoNYWOJiS0HPYhe3f2Ja+Sm0s9PfWhNiKDVUys/SqqJOSdz0FPYS3E+AKmMhkk5jTcUJ/q0jWpNuw==",
+      "path": "bootstrap/5.2.1",
+      "hashPath": "bootstrap.5.2.1.nupkg.sha512"
+    },
+    "Telerik.DataAccess.Core/2018.0.1127.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UdLszDce6iTXu9MhpC4f0Q9Y51hH72eBcEb+gPOavULtlnz1mJQoK7sQUTRirbuNM+mtglff6GiEwcEKw2ENVA==",
+      "path": "telerik.dataaccess.core/2018.0.1127.1",
+      "hashPath": "telerik.dataaccess.core.2018.0.1127.1.nupkg.sha512"
+    }
+  }
+}
