@@ -20,7 +20,7 @@ namespace DemoWebCam.Controllers
             this._environment = hostingEnvironment;
         }
         faceresult fc = new faceresult();
-        private int i;
+
 
 
         [HttpGet]

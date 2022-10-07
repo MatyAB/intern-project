@@ -1,0 +1,112 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebAppl
+build_property.RootNamespace = WebAppl
+build_property.ProjectDir = C:\Users\mati\Source\Repos\MatyAB\intern-project\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mati\Source\Repos\MatyAB\intern-project
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Camra/Capture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cHJvamVjdGZyb25tIGNoYVxXZWJBcHBsXFZpZXdzXENhbXJhXENhcHR1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cHJvamVjdGZyb25tIGNoYVxXZWJBcHBsXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Home/layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cHJvamVjdGZyb25tIGNoYVxXZWJBcHBsXFZpZXdzXEhvbWVcbGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Home/ModalPopUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cHJvamVjdGZyb25tIGNoYVxXZWJBcHBsXFZpZXdzXEhvbWVcTW9kYWxQb3BVcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cHJvamVjdGZyb25tIGNoYVxXZWJBcHBsXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Result/Fail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cHJvamVjdGZyb25tIGNoYVxXZWJBcHBsXFZpZXdzXFJlc3VsdFxGYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Result/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cHJvamVjdGZyb25tIGNoYVxXZWJBcHBsXFZpZXdzXFJlc3VsdFxTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cHJvamVjdGZyb25tIGNoYVxXZWJBcHBsXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cHJvamVjdGZyb25tIGNoYVxXZWJBcHBsXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cHJvamVjdGZyb25tIGNoYVxXZWJBcHBsXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cHJvamVjdGZyb25tIGNoYVxXZWJBcHBsXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = cHJvamVjdGZyb25tIGNoYVxXZWJBcHBsXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/Views/Camra/Capture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcmFcQ2FwdHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/Views/Camra/Capture1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcmFcQ2FwdHVyZTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/Views/Home/ModalPopUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb2RhbFBvcFVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/Views/Result/Fail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0XEZhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/Views/Result/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0XFN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/Source/Repos/MatyAB/intern-project/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
