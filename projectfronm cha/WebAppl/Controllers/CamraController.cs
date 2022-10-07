@@ -13,17 +13,20 @@ namespace DemoWebCam.Controllers
     public class CamraController : Controller
     {
         private readonly IWebHostEnvironment _environment;
-      
+        public bool facematch = true;
 
         public CamraController(IWebHostEnvironment hostingEnvironment)
         {
             this._environment = hostingEnvironment;
         }
         faceresult fc = new faceresult();
+        private int i;
+
+
         [HttpGet]
         public IActionResult Capture()
         {
-            fc.Result = true;
+            fc.Result = facematch;
 
             ViewBag.Result = fc.Result;
             return View();
@@ -33,74 +36,89 @@ namespace DemoWebCam.Controllers
         public IActionResult Capture(string name)
         {
 
-            try
+
+            var files = HttpContext.Request.Form.Files;
+
+
+            if (files != null)
             {
-                var files = HttpContext.Request.Form.Files;
-
-                if (files != null)
+                foreach (var file in files)
                 {
-                    foreach (var file in files)
+                    if (file.Length > 0)
+
+
                     {
-                        if (file.Length > 0)
+
+                        var fileName = file.FileName;
+
+                        var fileExtension = Path.GetExtension(fileName);
+                        var CaptureFileName = string.Concat((string?)string.Format("vvv"), fileExtension);
+                        var FilePath = Path.Combine(_environment.WebRootPath, "CameraPhoto" + $@"\{CaptureFileName}");
+
+
+                        if (!string.IsNullOrEmpty(FilePath))
                         {
-                            var fileName = file.FileName;
-                            var myUniqueFileName = string.Format(@"{0}.jpg", DateTime.Now.Ticks);
-                            var fileExtension = Path.GetExtension(fileName);
-                            var newFileName = string.Concat(myUniqueFileName, fileExtension);
-                            var filePath = Path.Combine(_environment.WebRootPath, "blackList") + $@"\{newFileName}";
 
-                            if (!string.IsNullOrEmpty(filePath))
+                            StoreInFolder(file, FilePath);
+                            //FileInfo fi = new FileInfo(FilePath);
+                            // if (fi.LastAccessTime < DateTime.Now.AddHours(-1)) fi.Delete();
+
+                        }
+
+
+
+                        var fileName1 = file.FileName;
+                        var myUniqueFileName = string.Format(@"{0}.jpg", DateTime.Now.Ticks);
+                        var fileExtension1 = Path.GetExtension(fileName1);
+                        var newFileName1 = string.Concat(myUniqueFileName, fileExtension1);
+                        var filePath = Path.Combine(_environment.WebRootPath, "blackList") + $@"\{newFileName1}";
+
+                        //var fileName1 = file.FileName;
+                        //    var fileExtension1 = Path.GetExtension(fileName1);
+                        //    var newFileName1 = string.Concat(string.Format("pic") + i++, fileExtension1);
+                        //    var filePath = Path.Combine(_environment.WebRootPath, "blackList") + $@"\{newFileName1}";
+
+                        if (facematch == false)
+                        {
+
+                            StoreInFolderBlackList(file, filePath);
+                        }
+
+
+
+
+                        //Detete file from folder
+                        if (System.IO.File.Exists(@"C:\Users\Hp\Desktop\projectfronm cha\WebAppl\wwwroot\CameraPhoto\638005724705688983.jpg"))
+                        {
+                            // Use a try block to catch IOExceptions, to
+                            // handle the case of the file already being
+                            // opened by another process.
+                            try
                             {
-                                // delete Image if face results are match else store in camera photos folder
-                                if(fc.Result==true)
-                                {
-                                    FileInfo fi = new FileInfo(fileName);
-                                    System.IO.File.Delete(fileName);
-                                    if (fi.LastAccessTime < DateTime.Now.AddHours(-1)) fi.Delete();
-                                }
-
-                                StoreInFolder(file, filePath);
-                                foreach (var f in files)
-                                {
-                                    FileInfo fi = new FileInfo(fileName);
-                                    if (fi.LastAccessTime < DateTime.Now.AddHours(-1)) fi.Delete();
-                                }
-
-
-
+                                System.IO.File.Delete(@"C:\Users\Hp\Desktop\projectfronm cha\WebAppl\wwwroot\CameraPhoto\638005724705688983.jpg");
+                            }
+                            catch (System.IO.IOException e)
+                            {
+                                Console.WriteLine(e.Message);
 
                             }
-                            var imageBytes = System.IO.File.ReadAllBytes(filePath);
-                            var FilePath = Path.Combine(_environment.WebRootPath, "CameraPhoto" + $@"\{newFileName}");
-                            if (fc.Result == false)
-                            {
-                                //  Storing Image if face results are match 
 
-                                StoreInFolder(file, FilePath);
-
-                            }
-                            foreach (var f in files)
-                            {
-                                FileInfo fi = new FileInfo(fileName);
-                                if (fi.LastAccessTime < DateTime.Now.AddHours(-1)) fi.Delete();
-                            }
                         }
                     }
-                    return Json(true);
-                }
-                else
-                {
-                    return Json(false);
-                }
 
+                }
+                return Json(true);
             }
-            catch (Exception)
+            else
             {
-                throw;
+                return Json(false);
             }
+
 
 
         }
+
+
         private void StoreInFolder(IFormFile file, string fileName)
         {
             using (FileStream fs = System.IO.File.Create(fileName))
@@ -110,17 +128,20 @@ namespace DemoWebCam.Controllers
             }
 
         }
-        private void DeteleImage(IFormFile file, string fileName)
+        private void StoreInFolderBlackList(IFormFile file, string fileName1)
         {
-            if(fileName.LastWriteTime<=DateTime.Now.AddHours(-1))
+            using (FileStream fs = System.IO.File.Create(fileName1))
             {
-
+                file.CopyTo(fs);
+                fs.Flush();
             }
+
         }
-        private void StoreInDatabase(byte[] imageBytes)
-        {
-            //saving captured into database
-        }
+
+
+
+
+
 
     }
-}                      
+}

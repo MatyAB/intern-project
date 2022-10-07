@@ -8,97 +8,105 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebAppl
 build_property.RootNamespace = WebAppl
-build_property.ProjectDir = C:\Users\mati\Pictures\WebAppl\WebAppl\
+build_property.ProjectDir = C:\Users\mati\source\repos\MatyAB\intern-project\projectfronm cha\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mati\Pictures\WebAppl\WebAppl
+build_property.MSBuildProjectDirectory = C:\Users\mati\source\repos\MatyAB\intern-project\projectfronm cha
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/Views/Camra/Capture.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/Views/Camra/Capture.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcmFcQ2FwdHVyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/Views/Camra/Capture1.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/Views/Camra/Capture1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcmFcQ2FwdHVyZTEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/Views/Home/Index.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/Views/Home/ModalPopUp.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/Views/Home/ModalPopUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb2RhbFBvcFVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/Views/Home/Privacy.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/Views/Result/Fail.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/Views/Result/Fail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0XEZhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/Views/Result/Success.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/Views/Result/Success.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0XFN1Y2Nlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/Views/Shared/Error.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/Views/Shared/_Layout.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/Views/_ViewImports.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/Views/_ViewStart.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/WebAppl/Views/Camra/Capture.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Camra/Capture.cshtml]
 build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbFxWaWV3c1xDYW1yYVxDYXB0dXJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/WebAppl/Views/Home/Index.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/WebAppl/Views/Home/Privacy.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Home/layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbFxWaWV3c1xIb21lXGxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Home/ModalPopUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbFxWaWV3c1xIb21lXE1vZGFsUG9wVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbFxWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/WebAppl/Views/Result/Fail.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Result/Fail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbFxWaWV3c1xSZXN1bHRcRmFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/WebAppl/Views/Result/Success.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Result/Success.cshtml]
 build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbFxWaWV3c1xSZXN1bHRcU3VjY2Vzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/WebAppl/Views/Shared/Error.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbFxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/WebAppl/Views/Shared/_Layout.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/WebAppl/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbFxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/WebAppl/Views/_ViewImports.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mati/Pictures/WebAppl/WebAppl/WebAppl/Views/_ViewStart.cshtml]
+[C:/Users/mati/source/repos/MatyAB/intern-project/projectfronm cha/WebAppl/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = V2ViQXBwbFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

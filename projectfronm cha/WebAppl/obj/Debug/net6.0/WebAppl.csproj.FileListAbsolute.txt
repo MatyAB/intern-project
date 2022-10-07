@@ -102,3 +102,14 @@ C:\Users\mati\Desktop\projectfronm cha\WebAppl\bin\Debug\net6.0\Telerik.OpenAcce
 C:\Users\mati\Desktop\projectfronm cha\WebAppl\bin\Debug\net6.0\Telerik.OpenAccess.Runtime.dll
 C:\Users\mati\Desktop\projectfronm cha\WebAppl\bin\Debug\net6.0\Telerik.OpenAccess.dll
 C:\Users\mati\Desktop\projectfronm cha\WebAppl\obj\Debug\net6.0\WebAppl.csproj.CopyComplete
+C:\Users\mati\Source\Repos\MatyAB\intern-project\projectfronm cha\WebAppl\obj\Debug\net6.0\WebAppl.csproj.AssemblyReference.cache
+C:\Users\mati\Source\Repos\MatyAB\intern-project\projectfronm cha\WebAppl\obj\Debug\net6.0\WebAppl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati\Source\Repos\MatyAB\intern-project\projectfronm cha\WebAppl\obj\Debug\net6.0\WebAppl.AssemblyInfoInputs.cache
+C:\Users\mati\Source\Repos\MatyAB\intern-project\projectfronm cha\WebAppl\obj\Debug\net6.0\WebAppl.AssemblyInfo.cs
+C:\Users\mati\Source\Repos\MatyAB\intern-project\projectfronm cha\WebAppl\obj\Debug\net6.0\WebAppl.csproj.CoreCompileInputs.cache
+C:\Users\mati\Source\Repos\MatyAB\intern-project\projectfronm cha\WebAppl\obj\Debug\net6.0\WebAppl.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mati\Source\Repos\MatyAB\intern-project\projectfronm cha\WebAppl\obj\Debug\net6.0\WebAppl.RazorAssemblyInfo.cache
+C:\Users\mati\Source\Repos\MatyAB\intern-project\projectfronm cha\WebAppl\obj\Debug\net6.0\WebAppl.RazorAssemblyInfo.cs
+C:\Users\mati\Source\Repos\MatyAB\intern-project\projectfronm cha\WebAppl\obj\Debug\net6.0\WebAppl.dll
+C:\Users\mati\Source\Repos\MatyAB\intern-project\projectfronm cha\WebAppl\obj\Debug\net6.0\ref\WebAppl.dll
+C:\Users\mati\Source\Repos\MatyAB\intern-project\projectfronm cha\WebAppl\obj\Debug\net6.0\WebAppl.pdb
